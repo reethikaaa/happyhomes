@@ -9,6 +9,7 @@ Advanced Search & Filters: Customize searches based on location, price, amenitie
 Virtual Tours & Photos: Get a detailed look at properties before visiting.
 Agent & Owner Connect: Directly communicate with property owners and real estate agents.
 Secure Transactions: Ensuring safe and hassle-free property deals.
+
 🎯 Our Mission:
 At Happy Homes, we strive to make property transactions simple, transparent, and accessible to everyone. Whether you're a buyer, seller, tenant, or landlord, we help you find the perfect space to call home.
 
