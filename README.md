@@ -1,29 +1,38 @@
 # Happyhomes🏠
-Happy Homes is a user-friendly platform designed to simplify the process of buying and renting properties. Whether you're searching for your dream home or looking for a rental that suits your needs, we provide a seamless experience with verified listings and expert guidance.
+A real estate management platform for renting and buying houses, villas, rental stays, and viewpoint villas. Built using HTML, CSS, JavaScript, PHP, and MySQL, and hosted using XAMPP.
 
-🔑 Key Features:
+🚀 Features
 
-Buy & Sell Properties: Explore a wide range of homes, apartments, and commercial spaces for sale.
+->Property Listings – View, add, and manage houses, villas, and stays.
 
-Rent with Ease: Find rental properties that match your budget and preferences.
+->User Authentication – Secure login & registration.
 
-Verified Listings: Browse only genuine and verified property listings.
+->Search & Filters – Easily find properties based on location & price.
 
-Advanced Search & Filters: Customize searches based on location, price, amenities, and more.
+->Booking System – Request and confirm rentals or purchases.
 
-Virtual Tours & Photos: Get a detailed look at properties before visiting.
+->Admin Panel – Manage users and property details.
 
-Agent & Owner Connect: Directly communicate with property owners and real estate agents.
+🛠️ Tech Stack
 
-Secure Transactions: Ensuring safe and hassle-free property deals.
+->Frontend: HTML, CSS, JavaScript
 
-🎯 Our Mission:
+->Backend: PHP
 
-At Happy Homes, we strive to make property transactions simple, transparent, and accessible to everyone. Whether you're a buyer, seller, tenant, or landlord, we help you find the perfect space to call home.
+->Database: MySQL
 
-🔗 Get Started:
+->Server: XAMPP
 
-Explore properties and find your perfect home.
-List your property and reach potential buyers or tenants.
-Connect with agents and landlords hassle-free.
-Find your Happy Home today! 🏠✨
+🔧 Installation
+
+1.Clone the repo:
+git clone https://github.com/reethikaaa/happyhomes.git
+
+2.Start XAMPP and enable Apache & MySQL.
+
+3.Import database.sql into MySQL.
+
+4.Update database credentials in config.php.
+
+5.Open in a browser:
+http://localhost/happyhomes/
