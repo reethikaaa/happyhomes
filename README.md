@@ -2,6 +2,7 @@
 Happy Homes is a user-friendly platform designed to simplify the process of buying and renting properties. Whether you're searching for your dream home or looking for a rental that suits your needs, we provide a seamless experience with verified listings and expert guidance.
 
 🔑 Key Features:
+
 Buy & Sell Properties: Explore a wide range of homes, apartments, and commercial spaces for sale.
 Rent with Ease: Find rental properties that match your budget and preferences.
 Verified Listings: Browse only genuine and verified property listings.
